@@ -87,15 +87,16 @@ app.get('/*',(req,res)=>{
     res.send(`
     <div style="display:flex; flex-direction: column; align-items: center; height: 100hv; box-sizing:border-box;">
     <div style='height: 550px; width: 600px; font-size: 80px; display:flex; justify-content: center;
-                background-image: url(https://images7.memedroid.com/images/UPLOADED577/61b6add70a737.jpeg)'> 
-                404</div>
+                background-size: contain;
+                background-image: url(https://img.freepik.com/free-vector/oops-404-error-with-broken-robot-concept-illustration_114360-1932.jpg?w=1060&t=st=1683391255~exp=1683391855~hmac=650713c17d251d80091273de6ee0f083ed7d615e33cecec0093e3b129e80b668)'> 
+                </div>
 
         <h1 style="line-height:20px"> Look like your're lost </h1>
-
+        
         <a href="/">
             <button style="background:green; font-size:20px; box-shadow: 5px 10px #888888; border-radius: 12px;"
                 onMouseOver="this.style.color='#0F0'"
-                onMouseOut="this.style.color='#00F'"> Get Me Out Of Here
+                onMouseOut="this.style.color='#00F'"> Go to Home
             </button>
         </a>
 

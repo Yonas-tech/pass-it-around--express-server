@@ -19,4 +19,4 @@ The server has three main pages, one 404 page, and dynamic pages
 
 
 Reference: 
-- The 404 page (image only): https://www.memedroid.com/memes/detail/3560113/error-404-not-found by La_Gata_de_barrio
+- The 404 page image: Freepik.com
